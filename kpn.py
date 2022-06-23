@@ -1,4 +1,4 @@
-def rps():
+def kpn():
     import random
     kpn = input("k,p,n: ")
 
@@ -23,9 +23,9 @@ def rps():
     if question == "n":
         quit()
     else:
-        rps()    
+        kpn()    
 
-rps()
+kpn()
 
 
 
